@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RahmanMoshiur00
-- 👀 I’m interested in competitive progamming.
-- 🌱 I’m currently learning data structures and algorithms.
+- 👋 Hi, I’m Moshiur Rahman Munna (https://www.linkedin.com/in/rahmanmoshiur/)
+- 👀 I’m working as Software Engineer at Samsung Electronics
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on medical projects.
 - 📫 How to reach me: rahmanmoshiur623@gmail.com
 
