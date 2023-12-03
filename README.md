@@ -2,7 +2,7 @@
 - 👀 I’m working as Software Engineer at Samsung Electronics
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on medical projects.
-- 📫 How to reach me: rahmanmoshiur623@gmail.com
+- 📫 How to reach me: rahmanmoshiur623@gmail.com or munna.m@samsung.com
 
 <!---
 RahmanMoshiur00/RahmanMoshiur00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
