@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Moshiur Rahman Munna (https://www.linkedin.com/in/rahmanmoshiur/)
 - 👀 I’m working as Software Engineer at Samsung Electronics
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on medical projects.
 - 📫 How to reach me: rahmanmoshiur623@gmail.com or munna.m@samsung.com
 
 <!---
